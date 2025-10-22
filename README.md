@@ -104,7 +104,7 @@ data = pd.read_csv('your_data.csv')
 
 ## 👥 Author
 
-Data Analysis TP - [Your Name]
+Data Analysis TP - LAMBARAA Abdellah
 
 ## 📝 License
 
